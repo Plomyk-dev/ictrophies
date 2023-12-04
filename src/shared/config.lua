@@ -26,7 +26,7 @@ Config.Trophies = {
     },
     ["start"] = {
         ["title"] = "Witamy w Los Santos!",
-        ["description"] = "Rozpocznij Kariere na EXPIRIENCE.",
+        ["description"] = "Rozpocznij Kariere na EXPERIENCE.",
         ["reward"] = {
             ["enable"] = false, -- active [true] or disable [false]
             ["type"] = "money", -- money, item
